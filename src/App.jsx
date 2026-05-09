@@ -173,7 +173,7 @@ function Experience() {
 
       <div className="card">
         <h3>Full Stack Web Developer – Freelance / Elite Meat Farms</h3>
-        <p>2024</p>
+        <p>2024 - 2026</p>
       </div>
 
       <div className="card">
@@ -183,7 +183,7 @@ function Experience() {
 
       <div className="card">
         <h3>Restaurant Management – Family Restaurant</h3>
-        <p>Aug 2023 – Feb 2024</p>
+        <p>Aug 2021 – Feb 2022</p>
       </div>
 
       <div className="card">
@@ -193,7 +193,7 @@ function Experience() {
 
       <div className="card">
         <h3>Interior Designer – I.D. Company</h3>
-        <p>Jul 2019 – Jul 2023</p>
+        <p>Jul 2019 – Jul 2021</p>
       </div>
     </section>
   );
@@ -216,8 +216,8 @@ function Contact() {
   return (
     <section id="contact" className="section contact">
       <h2>Contact Me</h2>
-      <p>Phone: +20 102 407 2888</p>
-      <p>Email: Ahmedolf7@gmail.com</p>
+      <p>Phone: +201024072888</p>
+      <p>Email: Ahmedyredaa7@gmail.com</p>
       <p>Location: Nasr City, Cairo, Egypt</p>
     </section>
   );
